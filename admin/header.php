@@ -9,16 +9,18 @@
 	<title>Jualan</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../assets/js/jquery-ui/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 	<script type="text/javascript" src="../assets/js/jquery.js"></script>
 	<script type="text/javascript" src="../assets/js/jquery.js"></script>
 	<script type="text/javascript" src="../assets/js/bootstrap.js"></script>
 	<script type="text/javascript" src="../assets/js/jquery-ui/jquery-ui.js"></script>	
 </head>
 <body>
+     
 	<div class="navbar navbar-default">
 		<div class="container-fluid">
 			<div class="navbar-header">
-				<a href="http://www.malasngoding.com" class="navbar-brand">MIF A</a>
+				<a href="index.php" class="navbar-brand">MIF A</a>
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
@@ -90,3 +92,4 @@
 		</ul>
 	</div>
 	<div class="col-md-10">
+        
