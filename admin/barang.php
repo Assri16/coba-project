@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-<h3><span class="glyphicon glyphicon-briefcase"></span>  Data Barang</h3>
+<h3><span class="glyphicon glyphicon-inbox"></span>  Data Barang</h3>
 <button style="margin-bottom:20px" data-toggle="modal" data-target="#myModal" class="btn btn-info col-md-2"><span class="glyphicon glyphicon-plus"></span>Tambah Barang</button>
 <br/>
 <br/>
