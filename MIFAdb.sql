@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 15, 2016 at 09:19 AM
+-- Generation Time: Jan 02, 2017 at 06:10 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `malasngoding_kios`
+-- Database: `mifadb`
 --
 
 -- --------------------------------------------------------
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `uname`, `pass`, `foto`) VALUES
-(8, 'malasngoding', '069c546d1d97fd9648d8142b3e0fd3a3', 'text.png');
+(8, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'Polije.png');
 
 -- --------------------------------------------------------
 
